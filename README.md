@@ -6,7 +6,7 @@ Build and test.
 
 Make sure you have cmake. This will only work on a Linux OS with epoll and accept4 support.
 
-git clone https://github.com
+git clone https://github.com/animeshembedded/poll-example
 
 cd epoll-example
 
